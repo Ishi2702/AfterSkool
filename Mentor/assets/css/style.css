@@ -357,8 +357,8 @@ span {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 80vh;
-  background: url("../img/Frame_36.jpg") top center;
+  height: 95vh;
+  background: url("../img/logo2.jpeg") top center;
   background-size: cover;
   position: relative;
 }
